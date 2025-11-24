@@ -40,7 +40,7 @@ Este proyecto demuestra mi capacidad para construir interfaces limpias, responsi
 ### 🖼️ Vista previa del proyecto
 
 <p align="center">
-  <img src="img/Foto.jpeg" 
+  <img src="img/Scremm.png" 
 	  width="260" alt="preview-card" />
 </p>
 
