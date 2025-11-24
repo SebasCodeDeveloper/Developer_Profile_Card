@@ -87,8 +87,8 @@ Este proyecto demuestra mi capacidad para construir interfaces limpias, responsi
 	
   <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats" />
 </div>
+<div align="center">
+ 💡La mejora continua no es una opción, es parte del código.
+</div> 
 
-> 💡 *"La mejora continua no es una opción, es parte del código."*
-
----
 
