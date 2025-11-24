@@ -40,7 +40,8 @@ Este proyecto demuestra mi capacidad para construir interfaces limpias, responsi
 ### 🖼️ Vista previa del proyecto
 
 <p align="center">
-  <img src="Foto.jpeg" width="260" alt="preview-card" />
+  <img src="img/Foto.jpeg" 
+	  width="260" alt="preview-card" />
 </p>
 
 ---
@@ -90,5 +91,3 @@ Este proyecto demuestra mi capacidad para construir interfaces limpias, responsi
 <div align="center">
  💡La mejora continua no es una opción, es parte del código.
 </div> 
-
-
