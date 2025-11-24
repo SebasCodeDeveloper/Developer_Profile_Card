@@ -40,7 +40,8 @@ Este proyecto demuestra mi capacidad para construir interfaces limpias, responsi
 ### 🖼️ Vista previa del proyecto
 
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTVpbjQ4NjRqbTE4cG9sMDVtNmhoOWtxMXN4bzJ1ZTU4cHJoeWZybyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mviOBOrzMn6BYUdxvR/giphy.gif" width="260" alt="preview-card" />
+  <img src="img/Foto_presentacion.jpeg" 
+	  width="260" alt="preview-card" />
 </p>
 
 ---
